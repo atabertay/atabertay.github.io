@@ -34,17 +34,30 @@ h2 { font-size: 1.45rem; margin-top: 2.5rem; padding-bottom: 0.35rem; border-bot
 #title-block-header .description { display: none; }
 
 /* Home */
-.hero { display: grid; grid-template-columns: 240px 1fr; gap: 2.5rem; align-items: start; margin-top: 1.5rem; }
+.hero { display: grid; grid-template-columns: 240px 1fr; grid-template-rows: auto 1fr; grid-template-areas: "photo text" "interests text"; column-gap: 2.5rem; row-gap: 1.75rem; align-items: start; margin-top: 1.5rem; }
+.hero-photo { grid-area: photo; }
+.hero-text { grid-area: text; min-width: 0; }
+.hero-interests { grid-area: interests; }
+.side-label { display: block; font-size: 0.75rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.08em; color: $muted; padding-bottom: 0.4rem; margin-bottom: 0.5rem; border-bottom: 1px solid $rule; }
+.hero-interests p { margin: 0; }
+.hero-interests ul { list-style: none; padding: 0; margin: 0; }
+.hero-interests li { font-size: 0.95rem; padding: 0.2rem 0; }
 .hero-photo img { width: 100%; border-radius: 10px; }
 .hero-name { font-size: 2.3rem; margin: 0 0 0.3rem; border: 0; padding: 0; }
 .hero-role { font-size: 1.1rem; font-weight: 500; margin: 0; }
 .hero-affil { color: $muted; margin: 0 0 1.2rem; }
-.hero-links { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1.2rem; }
-.hero-links a { display: inline-block; padding: 0.3rem 0.8rem; border: 1px solid $rule; border-radius: 999px; font-size: 0.88rem; font-weight: 500; }
-.hero-links a:hover { background: $tint; text-decoration: none; }
-.hero-links a.primary { background: $primary; border-color: $primary; color: #fff; }
-.hero-links a.primary:hover { background: darken($primary, 6%); }
-.interests { color: $muted; }
+.hero-photo { display: flex; flex-direction: column; gap: 0.75rem; }
+.hero-photo p, .hero-photo figure, .hero-photo .quarto-figure { margin: 0; }
+.profile-links { display: flex; flex-direction: column; gap: 0.6rem; }
+.ic { display: inline-block; width: 1.15rem; height: 1.15rem; background-color: currentColor; -webkit-mask-repeat: no-repeat; mask-repeat: no-repeat; -webkit-mask-position: center; mask-position: center; -webkit-mask-size: contain; mask-size: contain; }
+.cv-button { display: flex; align-items: center; justify-content: center; gap: 0.5rem; padding: 0.45rem 0.8rem; border-radius: 999px; background: $primary; color: #fff; font-weight: 600; font-size: 0.95rem; }
+.cv-button:hover { background: darken($primary, 6%); color: #fff; text-decoration: none; }
+.icon-row { display: flex; justify-content: space-between; }
+.icon-row a { display: inline-flex; align-items: center; justify-content: center; width: 2.3rem; height: 2.3rem; border: 1px solid $rule; border-radius: 50%; color: $primary; }
+.icon-row .ic { width: 1.3rem; height: 1.3rem; }
+.icon-row .ic.wide { width: 1.75rem; }
+.icon-row a:hover { background: $tint; border-color: $primary; text-decoration: none; }
+.icon-row a:focus-visible, .cv-button:focus-visible { outline: 2px solid $primary; outline-offset: 2px; }
 .news ul { list-style: none; padding-left: 0; }
 .news li { position: relative; padding: 0.3rem 0 0.3rem 5.75rem; }
 .news .when { white-space: nowrap; }
@@ -52,8 +65,8 @@ h2 { font-size: 1.45rem; margin-top: 2.5rem; padding-bottom: 0.35rem; border-bot
 .contact p { margin-bottom: 0.2rem; }
 
 @media (max-width: 720px) {
-  .hero { grid-template-columns: 1fr; gap: 1.25rem; }
-  .hero-photo img { max-width: 180px; }
+  .hero { grid-template-columns: 1fr; grid-template-rows: none; grid-template-areas: "photo" "text" "interests"; row-gap: 1.25rem; }
+  .hero-photo { width: min(240px, 100%); }
   .hero-name { font-size: 1.9rem; }
 }
 

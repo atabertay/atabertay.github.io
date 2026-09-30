@@ -7,6 +7,20 @@ image: images/headshot.jpg
 ::: {.hero}
 ::: {.hero-photo}
 ![](images/headshot.jpg){fig-alt="Portrait of Ata Can Bertay"}
+
+```{=html}
+<div class="profile-links">
+  <a class="cv-button" href="files/cv.pdf"><span class="ic" style="-webkit-mask-image:url(images/icons/cv.svg);mask-image:url(images/icons/cv.svg)"></span>CV</a>
+  <div class="icon-row">
+    <a href="https://scholar.google.com/citations?user=QEAmeegAAAAJ&hl=en" title="Google Scholar" aria-label="Google Scholar"><span class="ic" style="-webkit-mask-image:url(images/icons/google-scholar.svg);mask-image:url(images/icons/google-scholar.svg)"></span></a>
+    <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1534021" title="SSRN" aria-label="SSRN"><span class="ic wide" style="-webkit-mask-image:url(images/icons/ssrn.svg);mask-image:url(images/icons/ssrn.svg)"></span></a>
+    <a href="https://ideas.repec.org/f/pbe694.html" title="IDEAS/RePEc" aria-label="IDEAS/RePEc"><span class="ic" style="-webkit-mask-image:url(images/icons/ideas-repec.svg);mask-image:url(images/icons/ideas-repec.svg)"></span></a>
+    <a href="https://orcid.org/0000-0003-2945-7832" title="ORCID" aria-label="ORCID"><span class="ic" style="-webkit-mask-image:url(images/icons/orcid.svg);mask-image:url(images/icons/orcid.svg)"></span></a>
+    <a href="https://tr.linkedin.com/pub/ata-can-bertay/19/9a8/170/" title="LinkedIn" aria-label="LinkedIn"><span class="ic" style="-webkit-mask-image:url(images/icons/linkedin.svg);mask-image:url(images/icons/linkedin.svg)"></span></a>
+    <a href="https://x.com/atabertay" title="X" aria-label="X"><span class="ic" style="-webkit-mask-image:url(images/icons/x.svg);mask-image:url(images/icons/x.svg)"></span></a>
+  </div>
+</div>
+```
 :::
 
 ::: {.hero-text}
@@ -17,23 +31,21 @@ image: images/headshot.jpg
 
 I am an Assistant Professor of Finance at Sabancı Business School, Sabancı University, and a researcher at the European Banking Center, Tilburg University. My research studies banking, financial stability, macro-finance and corporate governance, with recent work on the finance wage premium, gender and finance, and how new technologies affect credit markets.
 
-In 2025–2026 I was a Senior Lecturer in Finance at Stockholm University, where students gave me the Ballerina Award for exceptional teaching. Before joining Sabancı in 2019, I was a Research Economist in the World Bank's Development Research Group (2015–2019) and lead author of the Global Financial Development Report 2017/2018 and 2019/2020. I directed the Sabancı University Corporate Governance Forum from 2021 to 2025 and have consulted for the World Bank, the EBRD and the Inter-American Development Bank. I hold a PhD in Economics from Tilburg University.
+In 2025–2026 I was a Senior Lecturer in Finance at Stockholm University, where I received the Ballerina Award for Exceptional Pedagogical Ability (student-nominated). Before joining Sabancı in 2019, I was a Research Economist in the World Bank's Development Research Group (2015–2019) and lead author of the Global Financial Development Report 2017/2018 and 2019/2020. I directed the Sabancı University Corporate Governance Forum from 2021 to 2025 and have consulted for the World Bank, the EBRD and the Inter-American Development Bank. I hold a PhD in Economics from Tilburg University.
 
-::: {.hero-links}
-[CV](files/cv.pdf){.primary}
-[Google Scholar](https://scholar.google.com/citations?user=QEAmeegAAAAJ&hl=en)
-[SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1534021)
-[IDEAS/RePEc](https://ideas.repec.org/f/pbe694.html)
-[ORCID](https://orcid.org/0000-0003-2945-7832)
-[LinkedIn](https://tr.linkedin.com/pub/ata-can-bertay/19/9a8/170/)
-[X](https://x.com/atabertay)
-:::
-:::
 :::
 
-## Research interests
+::: {.hero-interests}
+[Research interests]{.side-label}
 
-[Banking · Financial stability · Macro-finance · Corporate governance · Financial development · Labor and finance]{.interests}
+- Banking
+- Financial stability
+- Macro-finance
+- Corporate governance
+- Financial development
+- Labor and finance
+:::
+:::
 
 ## News
 
