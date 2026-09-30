@@ -33,6 +33,5 @@ format:
     theme: [cosmo, styles.scss]
     toc: false
     anchor-sections: false
-    link-external-newwindow: true
     link-external-icon: false
     include-after-body: _templates/site.html

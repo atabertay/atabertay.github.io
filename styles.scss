@@ -31,7 +31,7 @@ a:hover { text-decoration: underline; }
 h1, h2, h3 { font-weight: 600; letter-spacing: -0.01em; }
 h2 { font-size: 1.45rem; margin-top: 2.5rem; padding-bottom: 0.35rem; border-bottom: 1px solid $rule; }
 .quarto-title h1.title { font-size: 2.1rem; }
-.quarto-title .description { display: none; }
+#title-block-header .description { display: none; }
 
 /* Home */
 .hero { display: grid; grid-template-columns: 240px 1fr; gap: 2.5rem; align-items: start; margin-top: 1.5rem; }

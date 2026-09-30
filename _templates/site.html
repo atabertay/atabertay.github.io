@@ -8,10 +8,6 @@ document.addEventListener('click', function (e) {
   box.hidden = open;
 });
 document.addEventListener('DOMContentLoaded', function () {
-  document.querySelectorAll('a[href]').forEach(function (a) {
-    var h = a.getAttribute('href');
-    if (/\.pdf($|[?#])/i.test(h) || /^https?:/i.test(h)) { a.target = '_blank'; a.rel = 'noopener'; }
-  });
   var el = document.querySelector('.nav-footer-right');
   if (!el) return;
   var d = new Date(document.lastModified);

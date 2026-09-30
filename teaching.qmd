@@ -3,7 +3,7 @@ title: "Teaching"
 description: "Courses taught by Ata Can Bertay at Sabancı University, Stockholm University, Özyeğin University and Boğaziçi University."
 ---
 
-**Ballerina Award for Exceptional Pedagogical Ability**, Stockholm Business School, 2026, nominated by students.
+I have taught finance, banking and macroeconomics from undergraduate to PhD level at Sabancı, Stockholm, Özyeğin and Boğaziçi universities. In 2026, my students at Stockholm Business School nominated me for the Ballerina Award for Exceptional Pedagogical Ability, which I received.
 
 <!-- Add a teaching statement: put the PDF in files/ and uncomment the next line -->
 <!-- [Teaching statement](files/teaching-statement.pdf) -->
