@@ -1,0 +1,45 @@
+---
+title: "Research"
+description: "Publications, working papers and policy research by Ata Can Bertay on banking, financial stability and macro-finance."
+listing:
+  - id: featured
+    contents: [data/publications.yml, data/working-papers.yml]
+    template: _templates/featured.ejs
+    include:
+      featured: true
+    sort: "featured_order"
+  - id: publications
+    contents: data/publications.yml
+    template: _templates/papers.ejs
+    sort: false
+  - id: working-papers
+    contents: data/working-papers.yml
+    template: _templates/papers.ejs
+    sort: false
+  - id: policy
+    contents: data/policy.yml
+    template: _templates/papers.ejs
+    sort: false
+---
+
+My research studies how banks are regulated, funded and staffed, and how shocks travel through the financial system to the real economy. Full list with abstracts below; my [Google Scholar profile](https://scholar.google.com/citations?user=QEAmeegAAAAJ&hl=en) has citation counts.
+
+## Featured
+
+::: {#featured}
+:::
+
+## Publications
+
+::: {#publications}
+:::
+
+## Working papers
+
+::: {#working-papers}
+:::
+
+## Policy reports and book chapters
+
+::: {#policy}
+:::

@@ -1,0 +1,11 @@
+```{=html}
+<div class="featured-grid">
+<% for (const item of items) { %>
+<div class="featured-card" <%= metadataAttrs(item) %>>
+  <div class="fc-venue"><%= item.short_venue %></div>
+  <div class="fc-title"><% if (item.url) { %><a href="<%- item.url %>"><%= item.title %></a><% } else { %><%= item.title %><% } %></div>
+  <p class="fc-summary"><%= item.summary %></p>
+</div>
+<% } %>
+</div>
+```

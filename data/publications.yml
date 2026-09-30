@@ -1,0 +1,126 @@
+# Published papers, newest first. To add a paper, copy an entry and edit it.
+# Fields: title, coauthors, venue (HTML allowed), url (main link), abstract, links (list of name/url).
+# featured: true + featured_order + short_venue + summary puts a paper in the "Featured" row on the Research page.
+
+- title: "Decomposing the Finance Wage Premium: Contributions of Technology and Risk"
+  coauthors: "José Gabriel Carreño, Harry Huizinga, Burak Uras and Nathanael Vellekoop"
+  journal: "Journal of Corporate Finance"
+  venue: ", 2026, Vol. 99, 102980"
+  url: https://doi.org/10.1016/j.jcorpfin.2026.102980
+  featured: true
+  featured_order: 1
+  short_venue: "Journal of Corporate Finance, 2026"
+  summary: "Using Dutch worker–firm data, we show that IT investment, workforce education and their complementarity drive the finance wage premium; firm risk contributes little."
+  abstract: "On average, wages in the finance industry are higher compared to the rest of the economy. Two explanations suggested for this finance wage premium are (1) the positive correlation between risk-taking and wages, and (2) industry differences in information technology intensity. Using a comprehensive worker-firm panel dataset for the Netherlands, we estimate wage models with additive worker and firm fixed effects, and compute the finance wage premium as the average of the firm fixed effects in an industry. We then relate the estimated cross-section of firm fixed effects to a range of firm characteristics, and find that information technology investment, the average level of educational attainment at a firm, and the complementarity of the two are the main drivers of the finance wage premium, while firm risk only makes a small contribution."
+  links:
+    - name: Journal version
+      url: https://doi.org/10.1016/j.jcorpfin.2026.102980
+    - name: Working paper (SSRN)
+      url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5203539
+
+- title: "Does Workforce Gender Diversity Influence Banks' High-level Decisions? Evidence on Credit Growth and Risk-Taking"
+  coauthors: "Melsa Ararat and Onuralp Armagan"
+  journal: "Emerging Markets Finance and Trade"
+  venue: ", 2026"
+  url: https://doi.org/10.1080/1540496X.2026.2713727
+  links:
+    - name: Journal version
+      url: https://doi.org/10.1080/1540496X.2026.2713727
+    - name: Working paper (SSRN)
+      url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4530045
+
+- title: "Gender Inequality and Economic Growth: Evidence from Industry-Level Data"
+  coauthors: "Ljubica Dordevic and Can Sever"
+  journal: "Empirical Economics"
+  venue: ", 2025, Vol. 68(5), 2291–2326"
+  url: https://doi.org/10.1007/s00181-024-02698-6
+  featured: true
+  featured_order: 3
+  short_venue: "Empirical Economics, 2025"
+  summary: "Across manufacturing industries in 65 emerging and developing economies, lower gender inequality raises growth in female-intensive industries by about 26 percentage points over a decade."
+  abstract: "This paper examines whether higher gender equality facilitates economic growth by enabling better utilization of female labor. By allocating female labor to its more productive use, we hypothesize that reducing gender inequality should disproportionately benefit industries with relatively higher female share in their employment. In a sample of manufacturing industries from 65 EMDEs over the period of 1990–2018, we find a positive growth differential of about 26 percentage points over a decade between industries with a high and low female share in employment when they are located in a low gender inequality country compared to a country with high gender inequality."
+  links:
+    - name: Journal version
+      url: https://doi.org/10.1007/s00181-024-02698-6
+    - name: Working paper (SSRN)
+      url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3658594
+
+- title: "Are International Banks Different? Evidence on Bank Performance and Strategy"
+  coauthors: "Aslı Demirgüç-Kunt and Harry Huizinga"
+  journal: "Journal of Financial Services Research"
+  venue: ", 2024, Vol. 66, 101–142"
+  url: https://doi.org/10.1007/s10693-022-00390-3
+  abstract: "This paper provides evidence on how bank performance and strategies vary with the degree of bank internationalization using data for 113 countries during 2000–15. Bank internationalization is associated with lower valuations and lower returns on equity. After the global financial crisis, international banks were revalued particularly if they had stable funding in the form of deposits and if they had more generous deposit insurance coverage. For international banks headquartered in developing countries, bank internationalization is related negatively with the cyclicality of their domestic credit growth with respect to home country GDP growth, smoothing local downturns. In contrast, if the international bank is from a high-income country investing in a developing country, its subsidiary bank lending is relatively procyclical, which can be destabilizing."
+  links:
+    - name: Journal version
+      url: https://doi.org/10.1007/s10693-022-00390-3
+    - name: VoxEU column
+      url: https://voxeu.org/article/revaluation-international-banks-following-crisis
+
+- title: "Bank Capital Regulation and Risk after the Global Financial Crisis"
+  coauthors: "Deniz Anginer, Robert Cull, Aslı Demirgüç-Kunt and Davide S. Mare"
+  journal: "Journal of Financial Stability"
+  venue: ", 2024, Vol. 74, 100891"
+  url: https://doi.org/10.1016/j.jfs.2021.100891
+  abstract: "We explore and summarize the evolution in bank capital regulations and bank risk after the global financial crisis. Using a new survey of bank regulation and supervision covering more than 120 economies, we show that regulatory capital increased, but some elements of capital regulations became laxer. Analyzing bank-level data, we also document the importance of defining bank regulatory capital narrowly as the quality of capital matters in reducing bank risk. This is particularly true for banks that have more discretion in the computation of regulatory capital ratios and are subject to weaker market monitoring."
+  links:
+    - name: Journal version
+      url: https://doi.org/10.1016/j.jfs.2021.100891
+
+- title: "Leverage, Bank Employee Compensation and Institutions"
+  coauthors: "Burak Uras"
+  journal: "Journal of Banking and Finance"
+  venue: ", 2020, Vol. 111, 105701"
+  url: https://doi.org/10.1016/j.jbankfin.2019.105701
+  abstract: "This paper investigates the empirical relationship between financial structure and employee compensation in the banking industry. Using an international panel of banks, we show that well-capitalized banks pay higher wages to their employees. Our results are robust to changes in measurement, model specification and estimation methods. In order to account for the positive association between bank capital and employee compensation, we illustrate a stylized 3-period model and show that well-capitalized banks have incentives to pay higher wages to induce monitoring. Such monitoring rents of employees at capitalized banks are expected to be higher in societies with weak institutions. Further empirical analysis shows that the weaker is institutional quality of a country the stronger is the positive relationship between bank capital and wages - supporting our theoretical conjectures."
+  links:
+    - name: Journal version
+      url: https://doi.org/10.1016/j.jbankfin.2019.105701
+
+- title: "Securitization and Economic Activity: The Credit Composition Channel"
+  coauthors: "Di Gong and Wolf Wagner"
+  journal: "Journal of Financial Stability"
+  venue: ", 2017, Vol. 28, 225–239"
+  url: https://www.sciencedirect.com/science/article/pii/S1572308916000115
+  abstract: "Using an international panel of 104 countries over the period 1995 to 2012, we analyze the relationship between country-level securitization and economic activity. Our findings suggest that securitization is negatively related to various proxies of economic activity – even prior to the crisis of 2007-2009. We explain this finding as the results of securitization spurring consumption at the expense of investment and capital formation. Consistent with this, we find that securitization of household loans is negatively associated with economic activity, whereas business securitization displays a weak positive association with it, and that household securitization increases an economy's consumption-investment ratio. Our results inform recent initiatives aimed at reviving securitization markets, as they indicate that the impact of securitization crucially depends on the underlying collateral."
+  links:
+    - name: Journal version
+      url: https://www.sciencedirect.com/science/article/pii/S1572308916000115
+    - name: Working paper (SSRN)
+      url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2621548
+    - name: VoxEU column
+      url: https://voxeu.org/article/securitisation-and-growth-collateral-matters
+
+- title: "Should Cross-Border Banking Benefit from Financial Safety Net?"
+  coauthors: "Aslı Demirgüç-Kunt and Harry Huizinga"
+  journal: "Journal of Financial Intermediation"
+  venue: ", 2016, Vol. 27, 51–67"
+  url: https://doi.org/10.1016/j.jfi.2016.05.005
+  abstract: "Using bank-level data from 84 countries, we find that a higher degree of bank internationalization is associated with higher interest expenses. Internationalization is proxied by a bank's share of foreign liabilities in total liabilities or a Herfindahl index of international liability concentration. Bank interest expenses rise relatively more with internationalization if the bank is underperforming or headquartered in a country with weak public finances, and especially at times of weak world output growth. These results suggest that liability holders of distressed internationalized banks expect less from the financial safety net since lack of an efficient recovery and resolution regime for international banks can make their insolvency very costly to deal with."
+  links:
+    - name: Journal version
+      url: https://doi.org/10.1016/j.jfi.2016.05.005
+    - name: Working paper (World Bank)
+      url: https://ideas.repec.org/p/wbk/wbrwps/5947.html
+
+- title: "Bank Ownership and Credit over the Business Cycle: Is Lending by State Banks less Procyclical?"
+  coauthors: "Aslı Demirgüç-Kunt and Harry Huizinga"
+  journal: "Journal of Banking and Finance"
+  venue: ", 2015, Vol. 50, 326–339"
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2096779
+  abstract: "This paper finds that lending by state banks is less procyclical than lending by private banks, especially in countries with good governance. Lending by state banks in high income countries is even countercyclical. On the liability side, state banks expand potentially unstable non-deposit liabilities relatively little during booms, especially in countries with good governance. Public banks also report loan non-performance more evenly over the business cycle. Overall our results suggest that state banks can play a useful role in stabilizing credit over the business cycle as well as during periods of financial instability. However, the track record of state banks in credit allocation remains quite poor, questioning the wisdom of using state banks as a short term counter-cyclical tool."
+  links:
+    - name: Working paper (SSRN)
+      url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2096779
+    - name: VoxEU column
+      url: https://voxeu.org/article/lending-state-banks-more-stable-over-business-cycle
+
+- title: "Do We Need Big Banks? Evidence on Performance, Strategy and Market Discipline"
+  coauthors: "Aslı Demirgüç-Kunt and Harry Huizinga"
+  journal: "Journal of Financial Intermediation"
+  venue: ", 2013, Vol. 22(4), 532–558"
+  url: https://www.sciencedirect.com/science/article/pii/S1042957313000053
+  abstract: "For an international sample of banks, we construct measures of a bank's absolute size and its systemic size defined as size relative to the national economy. We then examine how a bank's risk and return on equity, its activity mix and funding strategy, and the extent to which it faces market discipline depend on both size measures. We show that bank returns increase with absolute size, yet decline with systemic size, while neither size measure is associated with bank risk as implicit in the Z-score. These results are consistent with the view that growing to a size that is systemic is not in the interest of bank shareholders. We also find that systemically large banks are subject to greater market discipline as evidenced by a higher sensitivity of their funding costs to risk proxies, consistent with the view that they can become too large to save. A bank's interest costs, however, are estimated to decline with bank systemic size for all banks apart from those with very low capitalization levels. This suggests that market discipline, exercised through funding costs, does not prevent banks from attaining larger systemic size."
+  links:
+    - name: Journal version
+      url: https://www.sciencedirect.com/science/article/pii/S1042957313000053

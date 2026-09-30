@@ -1,0 +1,80 @@
+/*-- scss:defaults --*/
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap');
+
+$font-family-sans-serif: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+$headings-font-family: "Source Serif 4", Georgia, serif;
+$font-size-root: 17px;
+$body-color: #1f2328;
+$body-bg: #ffffff;
+$link-color: #1d3b5c;
+$primary: #1d3b5c;
+$navbar-bg: #ffffff;
+$navbar-fg: #1f2328;
+$navbar-hl: #1d3b5c;
+$footer-bg: #ffffff;
+$footer-fg: #5b6470;
+
+/*-- scss:rules --*/
+$muted: #5b6470;
+$rule: #e3e6ea;
+$tint: #f3f5f8;
+
+body { line-height: 1.65; }
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+.navbar { border-bottom: 1px solid $rule; box-shadow: none; }
+.navbar-brand .navbar-title { font-family: $headings-font-family; font-weight: 600; font-size: 1.25rem; }
+.navbar .nav-link { font-weight: 500; font-size: 0.95rem; }
+.nav-footer { border-top: 1px solid $rule; font-size: 0.85rem; }
+
+h1, h2, h3 { font-weight: 600; letter-spacing: -0.01em; }
+h2 { font-size: 1.45rem; margin-top: 2.5rem; padding-bottom: 0.35rem; border-bottom: 1px solid $rule; }
+.quarto-title h1.title { font-size: 2.1rem; }
+.quarto-title .description { display: none; }
+
+/* Home */
+.hero { display: grid; grid-template-columns: 240px 1fr; gap: 2.5rem; align-items: start; margin-top: 1.5rem; }
+.hero-photo img { width: 100%; border-radius: 10px; }
+.hero-name { font-size: 2.3rem; margin: 0 0 0.3rem; border: 0; padding: 0; }
+.hero-role { font-size: 1.1rem; font-weight: 500; margin: 0; }
+.hero-affil { color: $muted; margin: 0 0 1.2rem; }
+.hero-links { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1.2rem; }
+.hero-links a { display: inline-block; padding: 0.3rem 0.8rem; border: 1px solid $rule; border-radius: 999px; font-size: 0.88rem; font-weight: 500; }
+.hero-links a:hover { background: $tint; text-decoration: none; }
+.hero-links a.primary { background: $primary; border-color: $primary; color: #fff; }
+.hero-links a.primary:hover { background: darken($primary, 6%); }
+.interests { color: $muted; }
+.news ul { list-style: none; padding-left: 0; }
+.news li { position: relative; padding: 0.3rem 0 0.3rem 5.75rem; }
+.news .when { white-space: nowrap; }
+.news .when { position: absolute; left: 0; color: $muted; font-variant-numeric: tabular-nums; }
+.contact p { margin-bottom: 0.2rem; }
+
+@media (max-width: 720px) {
+  .hero { grid-template-columns: 1fr; gap: 1.25rem; }
+  .hero-photo img { max-width: 180px; }
+  .hero-name { font-size: 1.9rem; }
+}
+
+/* Research */
+.featured-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; margin: 1rem 0 0.5rem; }
+.featured-card { border: 1px solid $rule; border-radius: 10px; padding: 1rem 1.1rem; background: $tint; display: flex; flex-direction: column; }
+.featured-card .fc-venue { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.04em; color: $muted; margin-bottom: 0.4rem; }
+.featured-card .fc-title { font-family: $headings-font-family; font-weight: 600; font-size: 1.05rem; line-height: 1.35; margin-bottom: 0.5rem; }
+.featured-card .fc-summary { font-size: 0.9rem; color: $body-color; margin: 0; }
+@media (max-width: 900px) { .featured-grid { grid-template-columns: 1fr; } }
+
+.paper { padding: 0.9rem 0; border-bottom: 1px solid $rule; }
+.paper:last-child { border-bottom: 0; }
+.paper-title, .paper-title a { font-weight: 600; font-size: 1.02rem; line-height: 1.4; }
+.paper-authors, .paper-venue { font-size: 0.93rem; color: $muted; }
+.paper-links { display: flex; flex-wrap: wrap; gap: 0.35rem 1rem; margin-top: 0.35rem; font-size: 0.88rem; font-weight: 500; }
+.abs-toggle { background: none; border: 0; padding: 0; color: $link-color; font-weight: 500; cursor: pointer; }
+.abs-toggle::after { content: " +"; }
+.abs-toggle[aria-expanded="true"]::after { content: " −"; }
+.paper-abstract { margin-top: 0.6rem; padding: 0.8rem 1rem; background: $tint; border-radius: 8px; font-size: 0.92rem; }
+
+/* Teaching, media */
+.course { margin-bottom: 0.9rem; }
+.course-meta { color: $muted; font-size: 0.92rem; }

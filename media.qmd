@@ -1,0 +1,28 @@
+---
+title: "Policy & Media"
+description: "Policy work, columns and press coverage of research by Ata Can Bertay."
+---
+
+## Policy work
+
+- **Lead author, World Bank *Global Financial Development Report*** 2017/2018 (*Bankers without Borders*) and 2019/2020 (bank regulation and supervision a decade after the global financial crisis).
+- **In-depth analyses for the European Parliament's Economic and Monetary Affairs Committee** (with Harry Huizinga), 2015–2024, on bank profitability, NPL resolution, digital transformation, fit-and-proper rules and banking market integration.
+- **SIEPS European Policy Analysis** on gender equality and regional growth in the EU, 2026.
+- Consulting for the World Bank (including the Global Financial Development Analytics project), the EBRD and the Inter-American Development Bank.
+
+Full list under [Research](research.qmd#policy-reports-and-book-chapters).
+
+## Columns and blog posts
+
+- "Market Discipline," *All About Finance*, World Bank, 2019. [Link](https://blogs.worldbank.org/allaboutfinance/market-discipline)
+- "The revaluation of international banks following the crisis," *VoxEU*, 2018. [Link](https://voxeu.org/article/revaluation-international-banks-following-crisis)
+- "The transmission of real estate shocks through multinational banks," *All About Finance*, World Bank, 2017. [Link](https://blogs.worldbank.org/allaboutfinance/transmission-real-estate-shocks-through-multinational-banks)
+- "Eighteenth annual international banking conference: The future of large, internationally active banks," *All About Finance*, World Bank, 2015. [Link](https://blogs.worldbank.org/allaboutfinance/eighteenth-annual-international-banking-conference-future-large-internationally-active-banks)
+- "Securitisation and growth: The collateral matters," *VoxEU*, 2015; also covered in *WSJ Pro Central Banking*. [Link](https://voxeu.org/article/securitisation-and-growth-collateral-matters)
+- "Is lending by state banks more stable over the business cycle?," *VoxEU*, 2012. [Link](https://voxeu.org/article/lending-state-banks-more-stable-over-business-cycle)
+
+## Press coverage
+
+- "Malaysian banks balk at global trend with regional push — World Bank," *The Edge Malaysia*, 2018. [Link](https://www.theedgemarkets.com/article/malaysian-banks-balk-global-trend-regional-push-%E2%80%94-world-bank)
+- "Flat loan growth positive for banks," *The Edge Financial Daily*, 2018. [Link](https://www.theedgemarkets.com/article/flat-loan-growth-positive-banks)
+- "Malaysia's advanced financial regulatory framework, supervisory practices attract investors," *BERNAMA*, 2018. [Link](http://www.oananews.org/content/news/bussiness/malaysias-advanced-financial-regulatory-framework-supervisory-practices)

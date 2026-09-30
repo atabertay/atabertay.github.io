@@ -1,0 +1,63 @@
+---
+title: "Teaching"
+description: "Courses taught by Ata Can Bertay at Sabancı University, Stockholm University, Özyeğin University and Boğaziçi University."
+---
+
+**Ballerina Award for Exceptional Pedagogical Ability**, Stockholm Business School, 2026, nominated by students.
+
+<!-- Add a teaching statement: put the PDF in files/ and uncomment the next line -->
+<!-- [Teaching statement](files/teaching-statement.pdf) -->
+
+## Sabancı Business School, Sabancı University
+
+::: {.course}
+**Special Topics in Finance: Banking** · PhD · 2022–2025
+:::
+
+::: {.course}
+**Principles of Finance** · MBA · 2019–2025
+:::
+
+::: {.course}
+**Economics for Managers** · MBA and Executive MBA · 2019–2025
+:::
+
+::: {.course}
+**Banking and Financial Intermediation** · Undergraduate · 2019–2024
+:::
+
+## Stockholm Business School, Stockholm University
+
+::: {.course}
+**International Finance** · Undergraduate · 2025–2026
+:::
+
+::: {.course}
+**Principles of Finance** · Undergraduate · 2025–2026
+:::
+
+## Earlier teaching
+
+::: {.course}
+**Financial Institutions and Banking** · PhD · Özyeğin University · 2015
+:::
+
+::: {.course}
+**Banking and Financial Intermediation** · Undergraduate · Özyeğin University · 2014–2015
+:::
+
+::: {.course}
+**Money and Banking** · Undergraduate · Özyeğin University · 2014–2015
+:::
+
+::: {.course}
+**Macroeconomics I** · Undergraduate · Boğaziçi University · Summer 2013
+:::
+
+::: {.course}
+**Special Topics in Economics: Macroeconomics** · Graduate · Boğaziçi University · Summers 2011 and 2012
+:::
+
+## Supervision
+
+[PhD: Emine Özgü Özen (Sabancı, ongoing). MA: Mustafa Saraç (Sabancı, 2023), Alper Tunga Şahiner (Sabancı, 2023), Tarık Alperen Er (Boğaziçi, 2023). PhD committees: Anderson Grajeles Olarte and José Gabriel Carreño (Tilburg), Juan José Cortina (Complutense).]{.course-meta}

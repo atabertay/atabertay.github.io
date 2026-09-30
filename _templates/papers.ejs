@@ -1,0 +1,18 @@
+```{=html}
+<div class="paper-list">
+<% for (let i = 0; i < items.length; i++) { const item = items[i]; if (item.hidden) continue; const aid = 'abs-' + String(item.title).toLowerCase().replace(/[^a-z0-9]+/g, '-').slice(0, 60); %>
+<div class="paper" <%= metadataAttrs(item) %>>
+  <div class="paper-title"><% if (item.url) { %><a href="<%- item.url %>"><%= item.title %></a><% } else { %><%= item.title %><% } %></div>
+  <% if (item.coauthors) { %><div class="paper-authors">with <%= item.coauthors %></div><% } %>
+  <% if (item.venue || item.journal) { %><div class="paper-venue"><%= item.venue_pre || "" %><% if (item.journal) { %><em><%= item.journal %></em><% } %><%= item.venue || "" %></div><% } %>
+  <% if (item.abstract || (item.links && item.links.length)) { %>
+  <div class="paper-links">
+    <% if (item.abstract) { %><button type="button" class="abs-toggle" aria-expanded="false" aria-controls="<%- aid %>">Abstract</button><% } %>
+    <% for (const l of (item.links || [])) { %><a href="<%- l.url %>"><%= l.name %></a><% } %>
+  </div>
+  <% } %>
+  <% if (item.abstract) { %><div class="paper-abstract" id="<%- aid %>" hidden><%= item.abstract %></div><% } %>
+</div>
+<% } %>
+</div>
+```

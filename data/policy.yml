@@ -1,0 +1,83 @@
+# Policy reports, book chapters and technical notes, newest first.
+# Set hidden: true to keep an entry off the site.
+
+# Unhide once IDB Invest confirms publication.
+- title: "The Effect of External Factors on the Portfolio of Banks in LAC"
+  venue: "IDB Invest Technical Note (forthcoming)"
+  hidden: true
+
+- title: "Benchmarking Credit to the Private Sector in LAC"
+  venue: "IDB Invest Technical Note (forthcoming)"
+  hidden: true
+
+- title: "Does Gender Equality Fuel Regional Growth in the European Union?"
+  venue: "SIEPS European Policy Analysis 2026:4"
+
+- title: "Banking Market Integration in Europe and Insolvency Law"
+  coauthors: "Harry Huizinga"
+  venue: "In-depth analysis for the ECON Committee, European Parliament, 2024"
+
+- title: "Recent Trends in Bank Privatization"
+  coauthors: "Pietro Calice, Federico Alfonso Diaz Kalan and Oliver Masetti"
+  venue_pre: "Chapter 4 in "
+  journal: "Current Topics in Finance: Insights on Evolving Markets and Practices"
+  venue: ", Scala Publishing, 2024"
+  url: https://ideas.repec.org/p/wbk/wbrwps/9318.html
+  links:
+    - name: World Bank working paper
+      url: https://ideas.repec.org/p/wbk/wbrwps/9318.html
+
+- title: "Cross-border Banking in EMDEs: Trends, Scale, and Policy Implications"
+  coauthors: "Erik Feyen, Norbert Fiess and Igor Esteban Zuccardi Huertas"
+  venue_pre: "Chapter 31 in "
+  journal: "Handbook of Banking and Finance in Emerging Markets"
+  venue: ", Edward Elgar, 2022"
+  url: https://doi.org/10.4337/9781800880900.00041
+  links:
+    - name: Chapter
+      url: https://doi.org/10.4337/9781800880900.00041
+    - name: World Bank working paper
+      url: https://ideas.repec.org/p/wbk/wbrwps/9393.html
+
+- title: "Digital Transformation – Why Do Some Significant Banks Fall Behind?"
+  coauthors: "Harry Huizinga"
+  venue: "In-depth analysis for the ECON Committee, European Parliament, 2021"
+
+- title: "Non-performing Loans – New Risks and Policies? NPL Resolution after COVID-19: Main Differences to Previous Crises"
+  coauthors: "Harry Huizinga"
+  venue: "In-depth analysis for the ECON Committee, European Parliament, 2021"
+
+- title: "Global Financial Development Report 2019/2020: Bank Regulation and Supervision a Decade after the Global Financial Crisis"
+  venue: "Lead author, World Bank, 2020"
+
+- title: "Albania Credit Guarantee Scheme Assessment"
+  coauthors: "K. Gjika, J. Jaeger, J. E. McNulty and Q. Zhang"
+  venue: "World Bank Report 151164, 2020"
+
+- title: "Has the Application of the \"Fit and Proper\" Regime Improved Governance Structures in the Banking Union?"
+  coauthors: "Harry Huizinga"
+  venue: "In-depth analysis for the ECON Committee, European Parliament, 2020"
+
+- title: "What Are the Main Factors for the Subdued Profitability of Significant Banks in the Banking Union, and Is the ECB's Supervisory Response Conclusive and Exhaustive?"
+  coauthors: "Harry Huizinga"
+  venue: "In-depth analysis for the ECON Committee, European Parliament, 2019"
+
+- title: "Global Financial Development Report 2017/2018: Bankers without Borders"
+  venue: "Lead author, World Bank, 2018"
+  links:
+    - name: Launch blog post
+      url: https://blogs.worldbank.org/allaboutfinance/hot-press-global-financial-development-report-20172018-bankers-without-borders
+
+- title: "Have European Banks Actually Changed Since the Start of the Crisis? An Updated Assessment of their Main Structural Characteristics"
+  coauthors: "Harry Huizinga"
+  venue: "In-depth analysis for the ECON Committee, European Parliament, 2017"
+
+- title: "Have European Banks Actually Changed Since the Start of the Crisis?"
+  coauthors: "Harry Huizinga"
+  venue: "In-depth analysis for the ECON Committee, European Parliament, 2015"
+
+- title: "Size and Stability of Big Banks"
+  coauthors: "Aslı Demirgüç-Kunt and Harry Huizinga"
+  venue_pre: "In "
+  journal: "The Value of Banks and Their Business Models to Society"
+  venue: ", SUERF, 2014"

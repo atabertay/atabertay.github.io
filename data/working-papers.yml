@@ -1,0 +1,23 @@
+# Working papers. Put the PDF in files/ and link it as url: files/yourpaper.pdf
+
+- title: "Firm Automation and Cost of Lending: Micro Insights for an Emerging Market"
+  coauthors: "Mehmet Selman Çolak, Ahmet Deryol, Sülhan Yıldırım and Muhammed Hasan Yılmaz"
+  venue: "CRBF Working Paper No. 27-003, University of St Andrews, 2026"
+  url: files/bertay-et-al-2026-firm-automation.pdf
+  featured: true
+  featured_order: 2
+  short_venue: "Working paper, 2026"
+  summary: "Linking customs records to Türkiye's credit registry, we show that automated firms borrow at lower rates, a discount that holds in an event study around the release of ChatGPT-4."
+  abstract: "This paper studies whether firm automation is reflected in the cost of bank financing. We link customs records on automation-related capital goods imports to monthly credit registry data and construct a panel of approximately 2.4 million bank-firm-month credit observations for Türkiye over 2018–2025. Automated firms borrow at significantly lower interest rates and obtain larger loan volumes. The interest-rate discount remains robust after matching firms on pre-sample observables and in an event-study design around the release of ChatGPT-4, which shifted the value of automation-complementary technologies. The discount is reversed at state-owned banks and larger at banks with greater ICT-related human capital, consistent with stronger pricing of automation where lenders have greater incentives and capacity to assess borrower risk. On the firm side, the discount is larger for firms with high income volatility, stronger bank relationships, and greater agency conflicts. It also widens during episodes of unexpected monetary tightening and is amplified when automation is combined with AI-related computing investment. Automated firms also perform better on several real outcomes, including sales, employment, exports, and capital investment. Taken together, the evidence suggests that automation shapes firm outcomes not only through production, but also through access to external finance."
+  links:
+    - name: PDF
+      url: files/bertay-et-al-2026-firm-automation.pdf
+
+- title: "The Transmission of Real Estate Shocks through Multinational Banks"
+  venue: "CentER Discussion Paper No. 2014-011"
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2389957
+  links:
+    - name: SSRN
+      url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2389957
+    - name: Blog post
+      url: https://blogs.worldbank.org/allaboutfinance/transmission-real-estate-shocks-through-multinational-banks

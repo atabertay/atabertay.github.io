@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - files/
+
+website:
+  title: "Ata Can Bertay"
+  site-url: https://atabertay.github.io
+  description: "Ata Can Bertay is an Assistant Professor of Finance at Sabancı Business School. His research covers banking, financial stability, macro-finance and corporate governance."
+  favicon: images/favicon.svg
+  open-graph: true
+  twitter-card: true
+  navbar:
+    title: "Ata Can Bertay"
+    right:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: media.qmd
+        text: Policy & Media
+      - href: files/cv.pdf
+        text: CV
+  page-footer:
+    left: "© Ata Can Bertay"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    toc: false
+    anchor-sections: false
+    link-external-newwindow: true
+    link-external-icon: false
+    include-after-body: _templates/site.html
