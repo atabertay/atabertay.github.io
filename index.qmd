@@ -50,6 +50,7 @@ In 2025–2026 I was a Senior Lecturer in Finance at Stockholm University, where
 ## News
 
 ::: {.news}
+- [Sep 2026]{.when} New study for the European Parliament with Harry Huizinga: "Supervisory Review and Evaluation Process (SREP) Reform: Tackling Slow-Burning Risks from Nonbank Financial Institutions." [PDF](https://www.europarl.europa.eu/RegData/etudes/STUD/2026/784031/ECTI_STU(2026)784031_EN.pdf)
 - [Sep 2026]{.when} Back at Sabancı Business School after a year as Senior Lecturer in Finance at Stockholm University.
 - [Jul 2026]{.when} New working paper: "Firm Automation and Cost of Lending: Micro Insights for an Emerging Market," CRBF Working Paper 27-003. [PDF](files/bertay-et-al-2026-firm-automation.pdf)
 - [Jun 2026]{.when} "Decomposing the Finance Wage Premium: Contributions of Technology and Risk" published in the *Journal of Corporate Finance*. [Paper](https://doi.org/10.1016/j.jcorpfin.2026.102980)

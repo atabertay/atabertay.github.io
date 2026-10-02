@@ -8,6 +8,13 @@ document.addEventListener('click', function (e) {
   box.hidden = open;
 });
 document.addEventListener('DOMContentLoaded', function () {
+  // Links in the page body that leave the site, or open a PDF, open in a new tab; menu links stay in the same tab.
+  document.querySelectorAll('#quarto-document-content a[href]').forEach(function (link) {
+    var url = new URL(link.href, location.href);
+    var external = url.hostname !== location.hostname && /^https?:$/.test(url.protocol);
+    var pdf = /\.pdf$/i.test(url.pathname);
+    if (external || pdf) { link.target = '_blank'; link.rel = 'noopener'; }
+  });
   var el = document.querySelector('.nav-footer-right');
   if (!el) return;
   var d = new Date(document.lastModified);

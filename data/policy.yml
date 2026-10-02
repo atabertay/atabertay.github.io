@@ -10,6 +10,15 @@
   venue: "IDB Invest Technical Note (forthcoming)"
   hidden: true
 
+- title: "Supervisory Review and Evaluation Process (SREP) Reform: Tackling Slow-Burning Risks from Nonbank Financial Institutions"
+  coauthors: "Harry Huizinga"
+  venue: "Study for the ECON Committee, European Parliament, 2026"
+  url: "https://www.europarl.europa.eu/RegData/etudes/STUD/2026/784031/ECTI_STU(2026)784031_EN.pdf"
+  abstract: "The growth of nonbank financial intermediation in recent decades implies that the risks for banks emanating from their interactions with the nonbank financial sector are now more important than before. This paper reviews these risks in the context of the Supervisory Review and Evaluation Process (SREP) of the Single Supervisory Mechanism (SSM), which is the annual assessment of risks to a bank's stability by the bank supervisory authority."
+  links:
+    - name: PDF
+      url: "https://www.europarl.europa.eu/RegData/etudes/STUD/2026/784031/ECTI_STU(2026)784031_EN.pdf"
+
 - title: "Does Gender Equality Fuel Regional Growth in the European Union?"
   venue: "SIEPS European Policy Analysis 2026:4"
 
