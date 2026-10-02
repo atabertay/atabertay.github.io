@@ -1,4 +1,4 @@
-# atabertay.github.io
+# www.atabertay.com
 
 Source for Ata Can Bertay's academic website, built with [Quarto](https://quarto.org) and published by GitHub Pages. Every push to `main` rebuilds and publishes the site in about two minutes.
 
