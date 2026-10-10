@@ -10,6 +10,19 @@
   venue: "IDB Invest Technical Note (forthcoming)"
   hidden: true
 
+- title: "The Financial Development Data: Methodology for Measuring Financial Development"
+  coauthors: "Erik Feyen, Davide S. Mare, Jose Marzluf and Diego M. Sourrouille"
+  venue: "World Bank, 2026"
+  url: "https://data.worldbank.org/content/dam/worldbank-data-findi/FinData-Methodology.pdf"
+  abstract: "Financial Development Data (FinData) is a new, annually updated database developed by the World Bank Group. This note describes the methodology used to construct FinData's composite indices of financial development, covering sample definition, data quality control, the treatment of missing data, and sensitivity analyses."
+  links:
+    - name: PDF
+      url: "https://data.worldbank.org/content/dam/worldbank-data-findi/FinData-Methodology.pdf"
+    - name: FinData database
+      url: "https://data.worldbank.org/collections/findata"
+    - name: Reproducibility package
+      url: "https://reproducibility.worldbank.org/catalog/668"
+
 - title: "Supervisory Review and Evaluation Process (SREP) Reform: Tackling Slow-Burning Risks from Nonbank Financial Institutions"
   coauthors: "Harry Huizinga"
   venue: "Study for the ECON Committee, European Parliament, 2026"

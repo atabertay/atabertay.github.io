@@ -50,6 +50,7 @@ In 2025–2026 I was a Senior Lecturer in Finance at Stockholm University, where
 ## News
 
 ::: {.news}
+- [Oct 2026]{.when} The World Bank launched FinData, its new Financial Development Data and the successor to the Global Financial Development Database. I was part of the core team. [Explore FinData](https://data.worldbank.org/collections/findata) · [Methodology](https://data.worldbank.org/content/dam/worldbank-data-findi/FinData-Methodology.pdf)
 - [Sep 2026]{.when} New study for the European Parliament with Harry Huizinga: "Supervisory Review and Evaluation Process (SREP) Reform: Tackling Slow-Burning Risks from Nonbank Financial Institutions." [PDF](https://www.europarl.europa.eu/RegData/etudes/STUD/2026/784031/ECTI_STU(2026)784031_EN.pdf)
 - [Sep 2026]{.when} Back at Sabancı Business School after a year as Senior Lecturer in Finance at Stockholm University.
 - [Jul 2026]{.when} New working paper: "Firm Automation and Cost of Lending: Micro Insights for an Emerging Market," CRBF Working Paper 27-003. [PDF](files/bertay-et-al-2026-firm-automation.pdf)
