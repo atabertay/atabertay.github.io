@@ -11,6 +11,7 @@ Source for Ata Can Bertay's academic website, built with [Quarto](https://quarto
 | Add a policy paper or technical note | `data/policy.yml` |
 | Change which papers are featured | set `featured: true` and `featured_order` on 3 entries |
 | Replace the CV | upload the new PDF as `files/cv.pdf` (keep the name so links never break) |
+| Post a new version of *Firm Automation and Cost of Lending* | replace `files/bertay-et-al-2026-firm-automation.pdf` and keep the name. The stable link `www.atabertay.com/firm-automation` then opens the new version (it is set in `firm-automation/index.html`) |
 | Add a news item | the News list in `index.qmd` |
 | Change the bio or contact details | `index.qmd`; email lives in `_variables.yml` |
 | Teaching | `teaching.qmd` |

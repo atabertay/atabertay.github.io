@@ -4,6 +4,7 @@ project:
   resources:
     - files/
     - images/icons/
+    - firm-automation/
 
 website:
   title: "Ata Can Bertay"

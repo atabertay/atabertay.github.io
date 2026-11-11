@@ -91,7 +91,7 @@
     - name: VoxEU column
       url: https://voxeu.org/article/securitisation-and-growth-collateral-matters
 
-- title: "Should Cross-Border Banking Benefit from Financial Safety Net?"
+- title: "Should Cross-Border Banking Benefit from the Financial Safety Net?"
   coauthors: "Aslı Demirgüç-Kunt and Harry Huizinga"
   journal: "Journal of Financial Intermediation"
   venue: ", 2016, Vol. 27, 51–67"
@@ -107,9 +107,11 @@
   coauthors: "Aslı Demirgüç-Kunt and Harry Huizinga"
   journal: "Journal of Banking and Finance"
   venue: ", 2015, Vol. 50, 326–339"
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2096779
+  url: https://doi.org/10.1016/j.jbankfin.2014.03.012
   abstract: "This paper finds that lending by state banks is less procyclical than lending by private banks, especially in countries with good governance. Lending by state banks in high income countries is even countercyclical. On the liability side, state banks expand potentially unstable non-deposit liabilities relatively little during booms, especially in countries with good governance. Public banks also report loan non-performance more evenly over the business cycle. Overall our results suggest that state banks can play a useful role in stabilizing credit over the business cycle as well as during periods of financial instability. However, the track record of state banks in credit allocation remains quite poor, questioning the wisdom of using state banks as a short term counter-cyclical tool."
   links:
+    - name: Journal version
+      url: https://doi.org/10.1016/j.jbankfin.2014.03.012
     - name: Working paper (SSRN)
       url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2096779
     - name: VoxEU column
